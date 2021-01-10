@@ -96,7 +96,7 @@
                 <div class="step last">
                     <h3>3. Order Summary</h3>
                 <div class="box_general summary">
-                    <ul>
+                    <ul> 
                         <li class="clearfix"><em>1x Armor Air X Fear</em>  <span>$145.00</span></li>
                         <li class="clearfix"><em>2x Armor Air Zoom Alpha</em> <span>$115.00</span></li>
                     </ul>
