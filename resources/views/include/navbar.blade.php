@@ -32,8 +32,7 @@
                   </a>
               </li>
 
-              <li>
-
+              {{-- <li>
                   <div class="dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       {{__('core.OUR-WORK')}}  </a>
@@ -49,8 +48,7 @@
 
                       </div>
                   </div>
-
-              </li>
+              </li> --}}
               
               <li>
 
